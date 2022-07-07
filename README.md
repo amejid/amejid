@@ -4,12 +4,12 @@
 
 ![line](./img/line.gif)
 
-## I'm a Developer, Sustainable Tech Advocate, and Teacher!!
+## I'm a Developer, Mentor and Tech enthusiast
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Ruby on rails
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love playing football and the guitar 😻 
+- 🥅 2022 Goals: Learn more about Backend development
+- ⚡ Fun fact: I love playing pool
 
 ![line](./img/line.gif)
 
@@ -22,8 +22,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/amejid#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/amejid#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/amejid#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/amejid#gh-dark-mode-only)
 
 ![line](./img/line.gif)
 
@@ -35,6 +33,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />](https://www.ruby-lang.org/en/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
