@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Abdelmejid+here...;I'm+a+full+stack+developer;Nice+to+have+you+here;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Abdelmejid+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
