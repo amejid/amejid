@@ -1,39 +1,57 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world of Tech">
+# Hi there! 👋 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amejid/count.svg" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Abdelmejid+here...;I'm+a+full+stack+developer;Nice+to+have+you+here;)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Abdelmejid Oumer Ali</h1>
+![line](./img/line.gif)
 
-### I am a Full-Stack Engineer
-Hi, I'm [Abdelmejid](https://www.linkedin.com/in/amejid/), a passionate self-taught full stack web developer and a software engineer from Ethiopia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+## I'm a Developer, Sustainable Tech Advocate, and Teacher!!
 
-I'm a student of Microverse, i am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source and learning new skills. HAPPY CODING 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other software developers
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love playing football and the guitar 😻 
+
+![line](./img/line.gif)
+
+### Connect with me:
+[![abdelmejid89@gmail.com.com](./img/gmail.svg)](mailto:abdelmejid89@gmail.com)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/amejidoumer#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/amejidoumer#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/amejid#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/amejid#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/amejid#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/amejid#gh-dark-mode-only)
+
+![line](./img/line.gif)
+
+### Languages and Tools:
+
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/)
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
 
 
-![I am Full Stack software developer (Junior)](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
+
+<br />
+<br />
+
+![line](./img/line.gif)
+
+### MY GITHUB STATISTICS &nbsp; <img src="./img/statistics.png" height="30" align="justify"/>
+
+[![Abdelmejid's GitHub stats](https://github-readme-stats.vercel.app/api?username=amejid&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amejid&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/amejid?tab=repositories)
-- 📫 How to reach me: ... abdelmejid89@gmail.com
-
-<a href="https://github.com/amejid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amejid&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abdelmejid's github stats" /></a> <a href="https://github.com/amejid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amejid&layout=compact&theme=buefy&hide_border=true" /></a> 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amejid) 
-
-
-<!--
-**amejid/amejid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[twitter]: https://twitter.com/amejidoumer
+[instagram]: https://instagram.com/amejid
+[linkedin]: https://linkedin.com/in/amejid
