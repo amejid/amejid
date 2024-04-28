@@ -4,11 +4,11 @@
 
 ![line](./img/line.gif)
 
-## I'm a Developer, Mentor and Tech enthusiast
+## I'm a Developer, Mentor, and Tech enthusiast
 
-- 🌱 I’m currently learning Ruby on rails
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about Backend development
+- 🥅 2024 Goals: Learn more about Backend development
 - ⚡ Fun fact: I love playing pool
 
 ![line](./img/line.gif)
