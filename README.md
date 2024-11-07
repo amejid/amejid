@@ -1,49 +1,19 @@
-# Hi there! 👋 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Abdelmejid+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
-
-![line](./img/line.gif)
-
-## I'm a Developer, Mentor, and Tech enthusiast
-
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2024 Goals: Learn more about Backend development
-- ⚡ Fun fact: I love playing pool
-
-![line](./img/line.gif)
-
-### Connect with me:
-[![abdelmejid89@gmail.com.com](./img/gmail.svg)](mailto:abdelmejid89@gmail.com)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/amejidoumer#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/amejidoumer#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/amejid#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/amejid#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-![line](./img/line.gif)
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/)
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />](https://www.java.com/en/)
+[<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;" />](https://spring.io/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
-[<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />](https://www.ruby-lang.org/en/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
+[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
 
 
 
 <br />
 <br />
-
-![line](./img/line.gif)
 
 ### MY GITHUB STATISTICS &nbsp; <img src="./img/statistics.png" height="30" align="justify"/>
 
